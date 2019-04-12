@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">connect4</string>
+    <string name="TextView">You won ,congrats!! </string>
+    <string name="Play_Again">Play Again !! </string>
+</resources>
